@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-fluid{
+    /* border: 5px solid black; */
+  
+}
+
+
+.row{
+    /* border: 3px solid red; */
+}
+
+#header{
+    text-align: center;
+      height: 70px;
+    background-color: rgb(112, 112, 170);
+}
+
+#nav{
+      height: 50px;
+    background-color: beige;
+}
+
+#nav ul{
+    list-style: none;
+    display: flex;
+    gap: 30px;
+}
+
+#main{
+    padding: 20px;
+    background-color: rgb(19, 205, 212);
+}
+
+#menu{
+    padding: 20px;
+    background-color: cadetblue;
+}
+
+#menu ul{
+      list-style: none;
+}
+#ftr{
+    background-color: aquamarine;
+    height: 50px;
+}
+
