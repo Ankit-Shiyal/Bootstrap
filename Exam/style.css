@@ -1,0 +1,57 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+header{
+    background-color: rgb(249, 226, 200);
+}
+.navbar-brand{
+    font-size: 30px;
+    font-family: "Bungee Spice", sans-serif;
+}
+
+.nav-item button{
+     background-color: rgb(237, 168, 90);
+     border: none;
+     width: 120px;
+     height: 30px;
+     border-radius: 20px;
+
+}
+.navbar-font ul li a{
+    font-size: 18px;
+}
+
+.hed{
+     font-family: "Sour Gummy", sans-serif;
+}
+.buttonn button{
+    border-radius: 20px;
+    
+}
+
+.card img{
+    height: 180px;
+    width: 100%;
+    border-radius: 0 0 0 20px;
+}
+.card{
+    height: 430px;
+    background-color: rgb(227, 216, 203);
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+footer{
+    background-color: rgb(227, 216, 203);
+
+}
+
+.font-icon{
+    font-size: 25px;
+}
+.ftr-section li{
+    text-decoration: none;
+
+}
+
